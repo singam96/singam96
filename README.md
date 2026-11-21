@@ -1,6 +1,4 @@
-# Hi, I'm Sachin George
-
-I build small, efficient vision and language models, and I like making them run fast
+#Sachin George
 
 ## Featured work
 
