@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sachin George
 
-<!--
-**singam96/singam96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, efficient vision and language models, and I like making them run fast and honestly report how well they work.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[ShadeNet](https://huggingface.co/singam96/ShadeNet-5-35M)** - single-image inverse rendering. One photo in, albedo, relative depth and surface normals out, in a single forward pass on a frozen DINOv2 backbone. Try it in the browser: [ShadeNet-5 Space](https://huggingface.co/spaces/singam96/ShadeNet-5).
+
+**[ReflexConv2D](https://github.com/singam96/ReflexConv2D)** - a convolution layer that modulates its own output with a mask built from its own weights. Beats a standard conv in a recursive U-Net autoencoder benchmark at every round.
+
+**[LionCAD-Instruct](https://huggingface.co/singam96/LionCAD-Instruct)** - a Qwen3-based instruction model for CAD, with its [dataset](https://huggingface.co/datasets/singam96/LionCAD-Instruct-v1).
+
+## Find me
+
+- Hugging Face: [huggingface.co/singam96](https://huggingface.co/singam96)
